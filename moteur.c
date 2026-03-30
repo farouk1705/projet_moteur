@@ -8,7 +8,7 @@ int main() {
     for(i = 0; i < 5; i++) {
         vitesse = vitesse + 5;
     }
-
+    vitesse = vitesse - 2
     printf("Vitesse finale = %.2f\n", vitesse);
 
     return 0;
